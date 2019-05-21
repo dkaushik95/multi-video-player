@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import Dropzone from 'react-dropzone'
 import "../../node_modules/video-react/dist/video-react.css";
 import './Home.css'
-import { Player, ControlBar } from 'video-react';
-import { AppBar, Toolbar, Typography, Grid, Paper, Icon, LinearProgress, CircularProgress, Divider, IconButton, Fab, TextField, Button } from '@material-ui/core';
+import { Player } from 'video-react';
+import { AppBar, Toolbar, Typography, Grid, Paper, Icon, CircularProgress, Divider, IconButton, Fab, TextField, Button } from '@material-ui/core';
 
 
 export default class Home extends Component {
