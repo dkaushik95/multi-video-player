@@ -1,24 +1,4 @@
-.left{
-    width: 50%;
-    height: 60vh;
-    float: left;
-}
-
-.dropzone{
-    padding: 10px;
-    align-content: center;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    height: 100%;
-}
-
-.dropzoneContainer {
-    border: 1px solid black;
-    height: 100%;
-    cursor: pointer;
-}
-
-.controls {
-    margin-top: 40px;
+.subheading {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
